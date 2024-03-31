@@ -2,4 +2,8 @@ create test1.txt file
 
 learn to git Hub
 a=66;
-h=9000
+
+
+h=9
+va=9*66;
+total=77;
